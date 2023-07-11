@@ -158,3 +158,32 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+crypto_wallet.py
+dev/share/jupyter/nbextensions/pydeck/index.js.map
+dev/share/jupyter/nbextensions/pydeck/index.js
+dev/share/jupyter/nbextensions/pydeck/extensionRequires.js
+.gitignore
+dev/Scripts/watchmedo.exe
+dev/Scripts/streamlit.exe
+dev/Scripts/streamlit.cmd
+dev/Scripts/pywin32_postinstall.py
+dev/Scripts/pywin32_testall.py
+dev/Scripts/pythonw.exe
+dev/Scripts/python.exe
+dev/Scripts/pygmentize.exe
+dev/Scripts/pip3.exe
+dev/Scripts/pip3.10.exe
+dev/Scripts/pip3.9.exe
+dev/Scripts/pip.exe
+dev/Scripts/normalizer.exe
+dev/Scripts/markdown-it.exe
+dev/Scripts/jsonschema.exe
+dev/Scripts/f2py.exe
+dev/Scripts/dotenv.exe
+dev/Scripts/deactivate.bat
+dev/Scripts/base58.exe
+dev/Scripts/Activate.ps1
+dev/Scripts/activate.bat
+dev/Scripts/activate
+dev/etc/jupyter/nbconfig/notebook.d/pydeck.json
+dev/pyvenv.cfg
