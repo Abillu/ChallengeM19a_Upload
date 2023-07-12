@@ -16,9 +16,9 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 
 ## Summary Results
-s
 
-  *w Created as ebpage to select a candidate that one would like to hire from the appropriate drop-down menu
+
+  * Created as ebpage to select a candidate that one would like to hire from the appropriate drop-down menu
 
 
   *  Signed and sent the transaction with my Ethereum account information. The transaction is reflected in  the transaction section of Ganache as followa: 
