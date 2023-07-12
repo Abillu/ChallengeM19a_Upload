@@ -29,7 +29,8 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 
   * Lastly, reflected in  the recipient’s address balance and history in the Ganache application as followa:
-![Ganashe_3](https://github.com/Abillu/ChallengeM19a_Upload/assets/126644613/729c7ed0-8270-4ade-bc11-50cbb3c33bb3)
+![Ganashe_3](https://github.com/Abillu/ChallengeM19a_Upload/assets/126644613/61be8170-450b-4017-9aad-3dd8a5900c41)
+
 
 
  
