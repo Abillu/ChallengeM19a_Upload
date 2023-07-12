@@ -261,6 +261,12 @@ st.sidebar.write(wage)
 # variable named `transaction_hash`, and have it display on the application’s
 # web interface.
 
+# Convert balance from ether to wei
+#wage= w3.toWei(200, 'ether')
+
+# Convert the balance from a denomination in wei to ether
+#Wei = w3.toWei(wage, "Wei")
+
 
 if st.sidebar.button("Send Transaction"):
 
@@ -268,7 +274,7 @@ if st.sidebar.button("Send Transaction"):
     # Call the `send_transaction` function and pass it 3 parameters:
     # Your `account`, the `candidate_address`, and the `wage` as parameters
     # Save the returned transaction hash as a variable named `transaction_hash`
-    transaction_hash = send_transaction(account,candidate_address,wage)
+    transaction_hash = send_transaction(w3,account,candidate_address,wage)
 
     # Markdown for the transaction hash
     st.sidebar.markdown("#### Validated Transaction Hash")
