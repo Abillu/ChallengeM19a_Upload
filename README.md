@@ -16,20 +16,21 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 
 ## Summary Results
-s
 
-  *w Created as ebpage to select a candidate that one would like to hire from the appropriate drop-down menu
+
+  * Created a webpage to select a candidate that one would like to hire from the appropriate drop-down menu
 
 
   *  Signed and sent the transaction with my Ethereum account information. The transaction is reflected in  the transaction section of Ganache as followa: 
 ![Ganashe_2](https://github.com/Abillu/ChallengeM19a_Upload/assets/126644613/a6368986-ff48-4fca-bc82-593e9014d64d)
 
- *  And reflected in my myaddress balance and history on Ganache as below:
+ *  And reflected in my address balance and history on Ganache as below:
 ![Ganashe_1](https://github.com/Abillu/ChallengeM19a_Upload/assets/126644613/729c7ed0-8270-4ade-bc11-50cbb3c33bb3)
 
 
   * Lastly, reflected in  the recipient’s address balance and history in the Ganache application as followa:
-![Ganashe_3](https://github.com/Abillu/ChallengeM19a_Upload/assets/126644613/729c7ed0-8270-4ade-bc11-50cbb3c33bb3)
+![Ganashe_3](https://github.com/Abillu/ChallengeM19a_Upload/assets/126644613/61be8170-450b-4017-9aad-3dd8a5900c41)
+
 
 
  
